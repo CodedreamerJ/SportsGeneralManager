@@ -79,6 +79,13 @@ public class AdminLogin extends JFrame implements ActionListener {
             public void actionPerformed(ActionEvent e) {
                 String usernameCheck = userName.getText();
                 String passwordCheck = String.valueOf(passWord.getPassword());
+                if (usernameCheck.equals("admin123") && passwordCheck.equals("Admin@123")) {
+                    AdminPage.main(new String[]{});
+                    AdminLogin.this.dispose();
+                } else {
+                    JOptionPane.showMessageDialog(AdminLogin.this,
+                            "Invalid/Incorrect credentials", "Login Error",JOptionPane.ERROR_MESSAGE);
+                }
             }
         });
         panel.add(login);

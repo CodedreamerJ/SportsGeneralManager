@@ -89,7 +89,7 @@ public class TeamLogin extends JFrame {
                 boolean status = TeamWdb.checkCredentials(usernameCheck, passwordCheck);
                 if (status) {
                     TeamPage.main(new String[]{});
-                   // TeamPage.this.dispose();
+                    TeamLogin.this.dispose();
                 } else {
                     JOptionPane.showMessageDialog(TeamLogin.this,
                             "Invalid/Incorrect credentials", "Login Error",JOptionPane.ERROR_MESSAGE);
