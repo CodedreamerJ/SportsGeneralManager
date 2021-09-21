@@ -30,7 +30,7 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [https://github.com/CodedreamerJ/github-link](https://github.com/CodedreamerJ)
 
 
-[https://linkedin.com/in/james-romero-0302b21a6-link]https://linkedin.com/in/james-romero-0302b21a6
+[https://linkedin.com/in/james-romero-0302b21a6-link]
 
 
 
