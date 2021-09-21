@@ -29,7 +29,6 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 [https://github.com/CodedreamerJ/github-link](https://github.com/CodedreamerJ)
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
 [linkedin-url]: https://linkedin.com/in/james-romero-0302b21a6
 
 
