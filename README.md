@@ -31,6 +31,8 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 [linkedin-url]: https://linkedin.com/in/james-romero-0302b21a6
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 ## Contributing
 
