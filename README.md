@@ -29,6 +29,8 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 [https://github.com/CodedreamerJ/github-link](https://github.com/CodedreamerJ)
 
+[linkedin-url]: https://linkedin.com/in/james-romero-0302b21a6
+
 ## Contributing
 
 1. Fork it (<https://github.com/CodedreamerJ/SportsGeneralManager/fork>)
@@ -43,6 +45,6 @@ Work in progress...
 
 
 #
-[linkedin-url]: https://linkedin.com/in/james-romero-0302b21a6
+
 
 
