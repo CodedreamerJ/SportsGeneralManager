@@ -5,6 +5,8 @@
 
 ![](header.png)
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 ## Installation
 
 OS X & Linux:
