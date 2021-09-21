@@ -9,7 +9,7 @@
 OS X & Linux:
 
 ```
-install Chrome extension from, "https://chrome.google.com/webstore/category/extensions"
+Download the zip folder and unzip to use software"
 ```
 If you are looking to use the source code of this file, simply save the the zip folder or use the proper git commands to pull the files accordingly.
 
