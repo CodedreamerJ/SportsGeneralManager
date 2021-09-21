@@ -38,3 +38,5 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 ## Images of Sports General Manager
 
 Work in progress...
+
+[linkedin-url]: https://linkedin.com/in/james-romero-0302b21a6
